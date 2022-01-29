@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Programmer</string>
+    <string name="favorites">Favorites</string>
+    <string name="share_the_app">Share the app</string>
+    <string name="rate_the_app">Rate the app</string>
+    <string name="websites">Websites</string>
+    <string name="tutorials">Tutorials</string>
+
+    <string name="navigation_drawer_open">Open Drawer</string>
+    <string name="navigation_drawer_close">Close Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

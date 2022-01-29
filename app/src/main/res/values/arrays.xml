@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="names">
+        <item>Android Developers</item>
+        <item>Java Tutorials</item>
+        <item>Kotlin Language</item>
+        <item>Firebase</item>
+        <item>Material Design</item>
+        <item>Dart Language</item>
+        <item>Flutter</item>
+        <item>Swift Language</item>
+        <item>Apple Developer</item>
+        <item>Udacity</item>
+        <item>Udemy</item>
+        <item>Coursera</item>
+        <item>React Native</item>
+        <item>Ionic</item>
+        <item>Unity</item>
+        <item>Adobe PhoneGap</item>
+        <item>TutorialsPoint</item>
+        <item>Python Language</item>
+        <item>PHP Language</item>
+        <item>Javascript Language</item>
+        <item>W3School</item>
+        <item>Microsoft Docs</item>
+        <item>Stack Overflow</item>
+        <item>Github</item>
+    </string-array>
+
+    <string-array name="urls">
+        <item>https://developer.android.com</item>
+        <item>https://docs.oracle.com/javase/tutorial</item>
+        <item>https://kotlinlang.org</item>
+        <item>https://firebase.google.com</item>
+        <item>https://material.io/design</item>
+        <item>https://dart.dev</item>
+        <item>https://flutter.dev</item>
+        <item>https://www.swift.org</item>
+        <item>https://developer.apple.com</item>
+        <item>https://www.udacity.com</item>
+        <item>https://www.udemy.com</item>
+        <item>https://www.coursera.org</item>
+        <item>https://reactnative.dev</item>
+        <item>https://ionicframework.com</item>
+        <item>https://unity.com</item>
+        <item>https://phonegap.com</item>
+        <item>https://www.tutorialspoint.com/index.htm</item>
+        <item>https://www.python.org</item>
+        <item>https://www.php.net</item>
+        <item>https://www.javascript.com</item>
+        <item>https://www.w3schools.com</item>
+        <item>https://docs.microsoft.com</item>
+        <item>https://stackoverflow.com</item>
+        <item>https://github.com</item>
+    </string-array>
+
+</resources>
